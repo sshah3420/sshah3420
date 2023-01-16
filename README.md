@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 <!--
-**sshah3420/sshah3420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sshah3420/sshah3420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Hello! I am Shaival Shah, a MS in Computer Science student at NC State University.
 
-- 🔭 I’m currently working on ...
+<!--
+- 🔭 I’m currently working on developing my Back-end and Machine Learning skills
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
