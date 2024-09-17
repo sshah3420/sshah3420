@@ -5,7 +5,7 @@
 
 Hello! I am Shaival Shah, a Master's student in Computer Science student at NC State University.
 
-Check out my [portfolio website](https://sshah3420.github.io/) or my [LinkedIn](https://www.linkedin.com/in/shaival-shah00/) to know more about me.
+Check out my [LinkedIn](https://www.linkedin.com/in/shaival-shah00/) to know more about me.
 
 <!--
 - 🔭 I’m currently working on developing my Back-end and Machine Learning skills
